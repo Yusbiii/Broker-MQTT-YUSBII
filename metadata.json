@@ -1,6 +1,0 @@
-{
-  "name": "IoT Dashboard",
-  "description": "Dashboard IoT interaktif beraksen biru cyan dengan koneksi 3 broker MQTT, kontrol relay, grafik sensor, sensor panel, serta voice command Bahasa Indonesia.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
